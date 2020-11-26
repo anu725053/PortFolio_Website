@@ -84,3 +84,13 @@
 
 
 }
+
+@media only screen and (max-width: 991px){
+    .header_area .main-menu .nav-item .nav-link{
+    font: normal 500 1.15em/5px var(--roboto);
+    text-transform: uppercase;
+    padding: 1rem;
+    color: var(--title-color);
+    text-align: center;
+}
+}
